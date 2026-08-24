@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>North Star Bakery - Products</title>
+</head>
+
+<body>
+
+    <header>
+        <img src="bakery-logo_c.png" alt="North Star Bakery">
+        <h1>North Star Bakery</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <h2>Our Products</h2>
+
+        <h3>Breads</h3>
+        <p>Our breads are made fresh and with love.</p>
+        <p>Price range: $3-$8.</p>
+
+        <h3>Pastries</h3>
+        <p>A selection of sweet pastries that are great for breakfast or a quick treat.</p>
+        <p>Price range: $2-$6.</p>
+
+        <h3>Cakes</h3>
+        <p>Our cakes are made for birthdays, celebrations, and other special occasions.</p>
+        <p>Price range: $20-$50.</p>
+
+    </main>
+
+</body>
+
+</html>
