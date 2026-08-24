@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>North Star Bakery - Home</title>
+</head>
+
+<body>
+
+    <header>
+        <img src="bakery-logo_c.png" alt="North Star Bakery">
+        <h1>North Star Bakery</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <h2>Welcome to North Star Bakery</h2>
+
+        <p>
+            Welcome to North Star Bakery, where we serve fresh baked goods to our local community.
+            We are known for our tasty pastries, breads and cakes.
+        </p>
+
+        <h3>Visit Us</h3>
+
+        <p>
+            Stop by North Star Bakery for fresh baked goods and friendly service.
+            Check location and store hours.
+        </p>
+
+        <h3>Featured Item</h3>
+
+        <p>
+            Try our signature loaf, one of the bakery's featured items.
+        </p>
+
+        <figure>
+            <img src="bakery-bread_c.png" alt="Signature loaf">
+            <figcaption>Signature loaf</figcaption>
+        </figure>
+
+        <picture>
+            <source media="(max-width: 600px)"
+                    srcset="bakery-feature-small_c.png">
+            <img src="bakery-feature-large_c.png"
+                 alt="featured bakery item">
+        </picture>
+
+        <audio controls>
+            <source src="bakery-welcome_c.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+        <video controls width="500">
+            <source src="bakery-behind-scenes_c.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+
+        <h3>Inquiry or Pre-order</h3>
+
+        <form>
+
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+
+            <label for="message">What can we help you with?</label>
+            <textarea id="message" name="message"></textarea>
+
+            <button type="submit">Send Request</button>
+
+        </form>
+
+    </main>
+
+</body>
+
+</html>
