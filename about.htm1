@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>North Star Bakery - About</title>
+</head>
+
+<body>
+
+    <header>
+        <img src="bakery-logo_c.png" alt="North Star Bakery">
+        <h1>North Star Bakery</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <h2>Our Story</h2>
+
+        <p>North Star Bakery is a neighborhood bakery created to simply bring joy through tasty treats for our local community. The idea started with a love for baking and the enjoyment that comes from sharing something tasty and fresh with the people in our community. What began with a passion for simply baking turned into something much bigger. From baking for family and friends, we decided to take a bigger leap and open a local bakery to share our favorite treats. As more customers discovered the bakery, we began taking pre-orders for birthdays, gatherings, and even catering for weddings. Today North Star Bakery continues to offer fresh baked goods while maintaining the same welcoming feeling we started with that inspired us in the first place.</p>
+
+        <h3>Sourcing Philosophy</h3>
+
+        <p>When choosing ingredients, we focus on finding good quality products that work well in our recipes. We want our breads, pastries, and cakes to taste fresh and consistent, so we pay attention to the ingredients we use. We also try to support local suppliers when we can because being part of the local community is important to us.</p>
+
+        <h3>Staff Highlights</h3>
+
+        <p>Our bakery is made up of people who enjoy working with food and helping customers. From preparing baked goods in the kitchen to helping customers at the counter, everyone plays a part in keeping North Star Bakery running. We work together to make sure customers receive friendly service and fresh products when they visit.</p>
+
+    </main>
+
+</body>
+
+</html>
